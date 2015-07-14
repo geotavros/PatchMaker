@@ -16,3 +16,5 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp
+
+win32:RC_FILE = resources.rc
